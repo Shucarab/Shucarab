@@ -1,5 +1,6 @@
 { "type": "LineString",
   "crs": { "type": "name",
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
 "properties": {
     "title": "",
     "description": "",

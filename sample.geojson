@@ -8,7 +8,7 @@
     "marker-size": "medium",
     "marker-symbol": "",
     "marker-color": "#7e7e7e",
-    "stroke": "#555555",
+    "stroke": "red",
     "stroke-opacity": 1.0,
     "stroke-width": 2,
     "fill": "#555555",

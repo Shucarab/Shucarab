@@ -4,6 +4,13 @@
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...　via twitter or Linkdin
 
+## certifications  
+aws saa/dva/clf  
+応用情報処理技術者試験  
+情報セキュリティマネジメント試験  
+
+
+
 <!---
 Shucarab/Shucarab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

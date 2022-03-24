@@ -1,14 +1,14 @@
 - 👋 Hi, I’m @Shucarab
-- 👀 I’m interested in ... process mining like celonis and Data/TestOps like delphix
-- 🌱 I’m currently learning ... Automation , MDM , etc...
+- 👀 I’m interested in ... process mining like signavio and Data/TestOps like delphix
+- 🌱 I’m currently learning ... Automation , Data Governance , Data Integration etc...
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ...　via twitter or Linkdin
+- 📫 How to reach me ...　via twitter or Linkdin, more detail prof => notion here(soon)
 
 ## certifications  
 aws saa/dva/clf  
 応用情報処理技術者試験  
 情報セキュリティマネジメント試験  
-
+JDLA G検定
 
 
 <!---
@@ -28,15 +28,15 @@ You can click the Preview link to take a look at your changes.
 ## 
 []()
 ## 統計  
-[統計WEB](https://bellcurve.jp/statistics/)
+[統計WEB](https://bellcurve.jp/statistics/)  
 [機械学習の数理100問シリーズ](https://bayesnet.org/books_jp/?page_id=20)
 ## IT訴訟  
 [「訴えてやる！」の前に読む IT訴訟](https://www.itmedia.co.jp/keywords/itsosyo.html)  
-[IT・システム判例メモ](https://itlaw.hatenablog.com/)
+[IT・システム判例メモ](https://itlaw.hatenablog.com/)  
 [紛争事例に学ぶ、ITユーザの心得](https://enterprisezine.jp/article/corner/325)
 ##  StartUP
-[FoundX](https://review.foundx.jp/)
-
+[FoundX](https://review.foundx.jp/)  
+[a16z data50](https://future.a16z.com/data50/)
 ## 公式
 [FastAPI](https://fastapi.tiangolo.com/ja/)  
 

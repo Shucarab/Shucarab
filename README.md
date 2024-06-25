@@ -6,6 +6,8 @@
 
 ## certifications  
 aws saa/dva/clf  
+SAP CO/Activate  
+Microsoft PL900
 応用情報処理技術者試験  
 情報セキュリティマネジメント試験  
 JDLA G検定
@@ -49,4 +51,7 @@ AWSにおけるSREの取り組み→[JAWS-UG SRE支部 #1](https://www.youtube.c
 コープさっぽろのBI刷新→[BigData-JAWS 勉強会#18](https://www.youtube.com/watch?v=Pr83qHw3oSo)
 ## おもしろそうな事例保存(My opinions are my own)
 SFDC→[巨大かつ複雑な税務行政がレガシーから脱却する方策](https://www.salesforce.com/jp/blog/2021/11/itx-publicsector-develop-dx.html)
-[]()
+[]()  
+| タイトル | リンク |
+|---------|-------|
+| ping-t | [リンク](https://mondai.ping-t.com/g/mypage)|

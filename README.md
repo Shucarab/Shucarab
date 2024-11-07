@@ -7,10 +7,10 @@
 ## certifications  
 aws saa/dva/clf  
 SAP CO/Activate  
-Microsoft PL900
+Microsoft PL900  
 応用情報処理技術者試験  
 情報セキュリティマネジメント試験  
-JDLA G検定
+JDLA G検定 
 
 
 <!---
